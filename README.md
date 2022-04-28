@@ -2,4 +2,4 @@
 
 Public open-ended discussions.
 
-[💬 View Discussions](https://github.com/truestamp/discussions/discussions)
+[💬 View Discussions](https://github.com/orgs/truestamp/discussions)
