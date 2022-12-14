@@ -5,8 +5,8 @@ public [discussions](https://github.com/orgs/truestamp/discussions).
 
 If you were looking for our organization's home on Github please visit [github.com/truestamp](https://github.com/truestamp) or checkout our home page at [www.truestamp.com](https://www.truestamp.com).
 
-We welcome you, and thank you for understanding that participation in the public issue tracker, or public discussions, is governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
+Thank you for understanding that participation in the public issue tracker, or public discussions, is governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
 
-Guidance for developers wanting to contribe can be found at [CONTRIBUTING.md](./CONTRIBUTING.md) in this repository.
+Guidance for developers wanting to contribute can be found at [CONTRIBUTING.md](./CONTRIBUTING.md).
 
-For reporting security isses please see our guide at [SECURITY.md](./SECURITY.md) in this repository.
+For reporting security isses please see our [SECURITY.md](./SECURITY.md) guide.
