@@ -17,26 +17,23 @@ You can also reach us via email at [support@truestamp.com](mailto:support@truest
 * [Issues](https://github.com/truestamp/discussions/issues)
 * [Discussions](https://github.com/orgs/truestamp/discussions)
 * [Repositories](https://github.com/orgs/truestamp/repositories)
-* [Public Roadmap](https://github.com/orgs/truestamp/projects/1/views/2)
-* [Documentation](https://docs.truestamp.com)
 
 ### Social
 
-- [Blog](https://blog.truestamp.com/)
-- Twitter [@truestamp](https://twitter.com/truestamp)
+- X/Twitter [@truestamp](https://x.com/truestamp)
 - [Discord](https://discord.gg/vQgKEEu)
-
-### Site Status
-
-If you are experiencing any es with access to Truestamp services please check our [site status](https://status.truestamp.com/) page.
 
 ### Privacy Policy & Code of Conduct
 
-Please note that all use of Truestamp services, including the issues tracker and public discussions, are governed by the Truestamp [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md) and [Privacy Policy](https://www.truestamp.com/policies) and your participation indicates acceptance of those policies.
+Please note that all use of Truestamp services, including the issues tracker and public discussions, are governed by the Truestamp policies and your participation indicates acceptance of those policies.
+
+- [Code of Conduct](https://github.com/truestamp/discussions/blob/main/CODE_OF_CONDUCT.md)
+- [Privacy Policy](https://www.truestamp.com/privacy-policy)
+- [Terms of Service](https://www.truestamp.com/terms-of-service)
 
 ### Contributing
 
-We welcome contributions to our open source repositories. You can find guidlines for doing so in our [CONTRIBUTING.md](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
+We welcome contributions to our open source repositories. You can find guidelines for doing so in our [CONTRIBUTING.md](https://github.com/truestamp/discussions/blob/main/CONTRIBUTING.md) page.
 
 ### Security
 
@@ -44,4 +41,4 @@ Please refer to our [SECURITY.md](https://github.com/truestamp/discussions/blob/
 
 ### Contact Us
 
-Feel free to reach out to us by email at [support@truestamp.com](mailto:support@truestamp.com) or on Twitter at [@truestamp](https://twitter.com/truestamp).
+Feel free to reach out to us by email at [support@truestamp.com](mailto:support@truestamp.com).
