@@ -1,0 +1,31 @@
+# Form for new discussions in the Q&A category. The file name must match the
+# category's slug.
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Ask anything about using Truestamp, its API, or one of its open source projects. Mark the reply that answers you, so the next person can find it.
+
+        Found a bug? [Open an issue](https://github.com/truestamp/discussions/issues/new/choose) instead. **Don't post security vulnerabilities here:** follow the [security policy](https://github.com/truestamp/.github/blob/main/SECURITY.md). Please don't paste API keys, private keys, or data you consider sensitive.
+
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+      description: What are you trying to do, and where are you stuck?
+    validations:
+      required: true
+
+  - type: textarea
+    id: tried
+    attributes:
+      label: What you've tried
+      description: Optional. Commands, code, or documentation pages you've already looked at, and what happened.
+
+  - type: input
+    id: project
+    attributes:
+      label: Project and version
+      description: Optional. Which Truestamp project or service this is about, and its version.
+      placeholder: truestamp-cli 0.14.0, the API, the web app
